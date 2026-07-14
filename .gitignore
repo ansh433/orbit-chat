@@ -17,6 +17,7 @@ build/
 dist/
 .turbo/
 *.tsbuildinfo
+convex/_generated/
 
 # Test output
 coverage/
